@@ -5,3 +5,11 @@ scripts/
 logs/
 nodeshavingdata.txt
 ablations/
+<<<<<<< Updated upstream
+=======
+.DS_Store
+Dataset/
+Result/
+Overlay/
+data/
+>>>>>>> Stashed changes

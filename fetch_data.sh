@@ -2,7 +2,7 @@
 
 fetch_site='http://cvsp.cs.ntua.gr/research/stavis/data'
 # define the path where the data will be stored
-data_root='/ssd_scratch/cvit/samyak/data'
+data_root='/Users/july/workspace/ViNet/data'
 # comment each line if you want to download a subset of the datasets
 db_names=(
           'AVAD'
